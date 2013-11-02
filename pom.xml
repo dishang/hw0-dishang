@@ -2,13 +2,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-dishang</artifactId>
-	<version>0.0.9</version>
+	<version>0.0.10-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:git@github.com:dishang/hw0-dishang.git
 		</connection>
 		<developerConnection>scm:git:git@github.com:dishang/hw0-dishang.git
 		</developerConnection>
-	  <tag>hw0-dishang-0.0.9</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<repositories>
 		<repository>
